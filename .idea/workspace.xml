@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d2dc21-4e52-4f67-855d-c34a5b29e255" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/dragula.js" afterPath="$PROJECT_DIR$/dist/dragula.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/dragula.min.js" afterPath="$PROJECT_DIR$/dist/dragula.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dragula.js" afterPath="$PROJECT_DIR$/dragula.js" />
+    </list>
+    <ignored path="dragula.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dragula" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dragula.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dragula.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="235" column="12" selection-start-line="235" selection-start-column="12" selection-end-line="235" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".jshintrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.jshintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.981132">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4710145">
+              <caret line="13" column="137" selection-start-line="13" selection-start-column="137" selection-end-line="13" selection-end-column="137" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dragula.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dragula.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.3773585">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dragula.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/dragula.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.7777777">
+              <caret line="271" column="16" selection-start-line="269" selection-start-column="8" selection-end-line="269" selection-end-column="16" />
+              <folding>
+                <marker date="1450281584000" expanded="true" signature="333:7692" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="810:7692" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="961:1145" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1010:1041" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1047:1126" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1181:1364" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1236:1271" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1496:1530" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1541:7692" placeholder="[...]" />
+                <marker date="1450281584000" expanded="true" signature="1574:7692" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1594:7692" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1856:7692" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="1951:2017" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="2703:2730" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="2759:2788" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="2819:2849" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="2878:2914" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="2946:2995" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3028:3060" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3086:3111" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3147:3182" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3217:3251" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3286:3320" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3351:3386" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3432:3476" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="3572:3727" placeholder="{&quot;dragging&quot;: false...}" />
+                <marker date="1450281584000" expanded="true" signature="3982:4132" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4171:4286" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4317:4491" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4514:4554" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4585:4642" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4663:5350" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4800:4886" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="4964:4985" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5067:5346" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5247:5340" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5389:6520" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5410:5431" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5467:5606" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="5819:6052" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6548:7256" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6585:6606" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6634:6686" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6780:6960" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6817:6842" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="6929:6954" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="7012:7033" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="7205:7251" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="7287:7373" placeholder="{...}" />
+                <marker date="1450281584000" expanded="true" signature="7449:7557" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js" />
+        <option value="$PROJECT_DIR$/dragula.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragula" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragula" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragula" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragula" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragula" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="packagej&#9;FILE&#9;file:///Users/NiekKruse/SoftwareProjects/dragula/package.json&#10;packagfe&#9;null&#9;null&#10;dragu&#9;FILE&#9;file:///Users/NiekKruse/SoftwareProjects/dragula/dist/dragula.js&#10;index.h&#9;FILE&#9;file:///Users/NiekKruse/SoftwareProjects/dragula/index.html" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d2dc21-4e52-4f67-855d-c34a5b29e255" name="Default" comment="" />
+      <created>1450272358962</created>
+      <option name="number" value="Default" />
+      <updated>1450272358962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="993" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/dragula.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-390.85184">
+          <caret line="529" column="41" selection-start-line="529" selection-start-column="41" selection-end-line="529" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3773585">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragula.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.981132">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/dragula.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.7777777">
+          <caret line="271" column="16" selection-start-line="269" selection-start-column="8" selection-end-line="269" selection-end-column="16" />
+          <folding>
+            <marker date="1450281584000" expanded="true" signature="333:7692" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="810:7692" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="961:1145" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1010:1041" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1047:1126" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1181:1364" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1236:1271" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1496:1530" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1541:7692" placeholder="[...]" />
+            <marker date="1450281584000" expanded="true" signature="1574:7692" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1594:7692" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1856:7692" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="1951:2017" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="2703:2730" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="2759:2788" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="2819:2849" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="2878:2914" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="2946:2995" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3028:3060" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3086:3111" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3147:3182" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3217:3251" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3286:3320" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3351:3386" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3432:3476" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="3572:3727" placeholder="{&quot;dragging&quot;: false...}" />
+            <marker date="1450281584000" expanded="true" signature="3982:4132" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4171:4286" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4317:4491" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4514:4554" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4585:4642" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4663:5350" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4800:4886" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="4964:4985" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5067:5346" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5247:5340" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5389:6520" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5410:5431" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5467:5606" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="5819:6052" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6548:7256" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6585:6606" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6634:6686" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6780:6960" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6817:6842" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="6929:6954" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="7012:7033" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="7205:7251" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="7287:7373" placeholder="{...}" />
+            <marker date="1450281584000" expanded="true" signature="7449:7557" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragula.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="235" column="12" selection-start-line="235" selection-start-column="12" selection-end-line="235" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4710145">
+          <caret line="13" column="137" selection-start-line="13" selection-start-column="137" selection-end-line="13" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
