@@ -468,9 +468,7 @@ function dragula(initialContainers, options) {
     if (_mirror) {
       return;
     }
-    console.log('Rendering mirror image');
     var rect = _item.getBoundingClientRect();
-    console.log(rect);
     _mirror = _item.cloneNode(true);
     _mirror.style.width = getRectWidth(rect) + 'px';
     _mirror.style.height = getRectHeight(rect) + 'px';
