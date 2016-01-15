@@ -172,8 +172,8 @@ function dragula(initialContainers, options) {
 
     var offset = getOffset(_initialTarget);
     console.log('Start because moved offset left: ' + offset.left + ', top: ' + offset.top);
-    _offsetX = getCoord('pageX', e) - offset.left;
-    _offsetY = getCoord('pageY', e) - offset.top;
+    _offsetX = getCoord('pageX', e);
+    _offsetY = getCoord('pageY', e);
 
     classes.add(_copy || _item, 'gu-transit');
     renderMirrorImage();
@@ -392,8 +392,8 @@ function dragula(initialContainers, options) {
 
     var clientX = getCoord('clientX', e);
     var clientY = getCoord('clientY', e);
-    var x = clientX - _offsetX;
-    var y = clientY - _offsetY;
+    var x = clientX;
+    var y = clientY;
 
     _mirror.style.left = x + 'px';
     _mirror.style.top = y + 'px';
