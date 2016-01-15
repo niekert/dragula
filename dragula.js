@@ -16,8 +16,8 @@ function dragula(initialContainers, options) {
   var _mirror; // mirror image
   var _source; // source container
   var _item; // item being dragged
-  var _offsetX; // reference x
-  var _offsetY; // reference y
+  var _elemWidth; //drag element width
+  var _elemHeight; //Drag element height
   var _moveX; // reference move x
   var _moveY; // reference move y
   var _initialSibling; // reference sibling when grabbed
@@ -170,10 +170,10 @@ function dragula(initialContainers, options) {
     end();
     start(grabbed);
 
-    var offset = getOffset(_initialTarget);
-    console.log('Start because moved offset left: ' + offset.left + ', top: ' + offset.top);
-    _offsetX = getCoord('pageX', e);
-    _offsetY = getCoord('pageY', e);
+    _elemWidth = _initialTarget.offsetWidth;
+    _elemHeight = _initialTarget.offsetHeight;
+
+    console.log('elem width: ' + _elemWidth + ' - elem height: ' + _elemHeight);
 
     classes.add(_copy || _item, 'gu-transit');
     renderMirrorImage();
@@ -236,8 +236,8 @@ function dragula(initialContainers, options) {
     } else {
       document.body.appendChild(tempItem);
     }
-    _initialTarget = context.item;
     _item = tempItem;
+    _initialTarget = tempItem;
 
     _initialSibling = _currentSibling = nextEl(context.item);
 
@@ -392,8 +392,8 @@ function dragula(initialContainers, options) {
 
     var clientX = getCoord('clientX', e);
     var clientY = getCoord('clientY', e);
-    var x = clientX;
-    var y = clientY;
+    var x = clientX - (_elemWidth / 2);
+    var y = clientY - (_elemHeight / 2);
 
     _mirror.style.left = x + 'px';
     _mirror.style.top = y + 'px';
@@ -595,24 +595,6 @@ function whichMouseButton(e) {
   if (button !== void 0) { // see https://github.com/jquery/jquery/blob/99e8ff1baa7ae341e94bb89c3e84570c7c3ad9ea/src/event.js#L573-L575
     return button & 1 ? 1 : button & 2 ? 3 : (button & 4 ? 2 : 0);
   }
-}
-
-function getOffset(el) {
-  var rect = el.getBoundingClientRect();
-  return {
-    left: rect.left + getScroll('scrollLeft', 'pageXOffset'),
-    top: rect.top + getScroll('scrollTop', 'pageYOffset')
-  };
-}
-
-function getScroll(scrollProp, offsetProp) {
-  if (typeof global[offsetProp] !== 'undefined') {
-    return global[offsetProp];
-  }
-  if (documentElement.clientHeight) {
-    return documentElement[scrollProp];
-  }
-  return body[scrollProp];
 }
 
 function getElementBehindPoint(point, x, y) {
