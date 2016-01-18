@@ -173,8 +173,6 @@ function dragula(initialContainers, options) {
     _elemWidth = _initialTarget.offsetWidth;
     _elemHeight = _initialTarget.offsetHeight;
 
-    console.log('elem width: ' + _elemWidth + ' - elem height: ' + _elemHeight);
-
     classes.add(_copy || _item, 'gu-transit');
     renderMirrorImage();
     drag(e);
@@ -479,27 +477,6 @@ function dragula(initialContainers, options) {
     classes.add(o.mirrorContainer, 'gu-unselectable');
     drake.emit('cloned', _mirror, _item, 'mirror');
 
-    //if (_mirror) {
-    //  return;
-    //}
-    ////_mirror = _item.cloneNode(true);
-    //_mirror = o.transform(_mirror);
-    //console.log('render mirror image');
-    //
-    ////If no clone was made
-    //if (!_mirror) {
-    //  _mirror = _item.cloneNode(true);
-    //  var rect = _item.getBoundingClientRect();
-    //  _mirror.style.width = getRectWidth(rect) + 'px';
-    //  _mirror.style.height = getRectHeight(rect) + 'px';
-    //}
-    //
-    //classes.rm(_mirror, 'gu-transit');
-    //classes.add(_mirror, 'gu-mirror');
-    //o.mirrorContainer.appendChild(_mirror);
-    //touchy(documentElement, 'add', 'mousemove', drag);
-    //classes.add(o.mirrorContainer, 'gu-unselectable');
-    //drake.emit('cloned', _mirror, _item, 'mirror');
   }
 
   function removeMirrorImage() {
